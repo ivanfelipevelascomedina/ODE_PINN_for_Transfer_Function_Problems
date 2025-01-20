@@ -11,8 +11,10 @@ The focus of this project is on analyzing transfer functions for 3 different con
 ## **Files & Folders**
 - **`requirements.txt`**: Lists necessary libraries.
 - **`Transfer_Function_Problems_PINN.ipynb`**: Main code file.
-- **`bollywoodkollywood-sad-love-bgm-13349`**: Contains the datasets (train, validation and test) for the 3 configurations.
-- **`requirements.txt`**: Contains the trained models for the 3 configurations
+- **`Datasets folder`**: Contains the datasets (train, validation and test) for the 3 configurations.
+- **`Models folder`**: Contains the trained models for the 3 configurations.
+- **`LSTM folder`**: Contains the different LSTM configurations codes.
+  
 ---
 
 ## Features

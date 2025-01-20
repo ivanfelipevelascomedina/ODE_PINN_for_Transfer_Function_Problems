@@ -12,7 +12,7 @@ The focus of this project is on analyzing transfer functions for 3 different con
 - **`requirements.txt`**: Lists necessary libraries.
 - **`Transfer_Function_Problems_PINN.ipynb`**: Main code file.
 - **`Datasets folder`**: Contains the datasets (train, validation and test) for the 3 configurations.
-- **`Models folder`**: Contains the trained models for the 3 configurations.
+- **`Models folder`**: Contains the trained PINN models for the 3 configurations.
 - **`Data_Driven_Models folder`**: Contains the different data-driven models codes to compare with the physics-based PINN model.
   
 ---
